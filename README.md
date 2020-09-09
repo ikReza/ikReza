@@ -25,7 +25,7 @@
 <summary>Some of my web development projects </summary>
 
 🚀 Full Stack
-- [e-commerce](ikr-crwn-live.netlify.app) - using React, Redux, Redux-saga, Firebase
+- [e-commerce](https://ikr-crwn-live.netlify.app) - using React, Redux, Redux-saga, Firebase
 - [e-commerce](https://ikr-amazona.netlify.app/) - a MERN stack project
 
 </details>
