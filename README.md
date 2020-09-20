@@ -18,6 +18,9 @@
 <summary>Some of my Machine Learning projects </summary>
 
 - [Vehicle Counting](https://youtu.be/Dr_Ic6tZVjw) - using YOLOv3 and openCV
+- Traffic Sign Classification - using Tensorflow, OpenCV and Streamlit
+  - [Web App](https://ikr-traffic-signclassification.herokuapp.com/)
+  - [Github repository](https://github.com/ikReza/traffic-sign-classification)
 
 </details>
 
