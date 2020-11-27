@@ -1,6 +1,7 @@
 ## Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm [Kaiser](https://ibrahim-kaiser.netlify.app/) !
 
 <a href="https://www.linkedin.com/in/ibrahim-kaiser/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://ikreza.medium.com" target="_blank"><img src="https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/SVG/Medium-Logo-Black-RGB.svg" alt="medium" width="100" height="20"/></a>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:ireza.kaiser00@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/kaiser.ireza/)](https://www.facebook.com/kaiser.ireza/)
 
