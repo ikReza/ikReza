@@ -21,7 +21,7 @@ Graduated from [Bangladesh University of Engineering and Technology (BUET)](http
 - Current Rating: 1368
 
 📫 **Reach Me**  
-- Personal Website: [https://sites.google.com/view/ibrahim-kaiser](https://sites.google.com/view/ibrahim-kaiser)  
+- Personal Website: [https://ikreza.github.io/](https://ikreza.github.io/)  
 
 **Languages and Tools:** 
 
